@@ -4,5 +4,5 @@ job:
     first_job:
      runs-on: ubuntu-latest
      steps:
-    - name: print date
+     - name: print date
       run: date
